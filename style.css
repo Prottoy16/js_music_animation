@@ -1,0 +1,12 @@
+.music {
+    padding:10px;
+    margin:10px 10px;
+    border-radius:5px;
+}
+.animation {
+    background-color:tomato;
+    box-shadow:1px 3px 3px 1px tan;
+    opacity:1.5;
+    border:none;
+
+}
